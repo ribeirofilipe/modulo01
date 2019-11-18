@@ -1,0 +1,17 @@
+{
+  "name": "GoStack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ribeirofilipe/GoStack.git",
+  "author": "Filipe de Oliveira Ribeiro <foribeiro@viceri.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
